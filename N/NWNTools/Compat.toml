@@ -1,0 +1,6 @@
+[0]
+Distributions = "0.25"
+LightGraphs = "1"
+SimpleWeightedGraphs = "1"
+StaticArrays = "1.2.0-1"
+julia = "1"

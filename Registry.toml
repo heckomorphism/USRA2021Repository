@@ -3,3 +3,4 @@ uuid = "960c573a-df17-4da1-8342-5a1df485d88e"
 repo = "https://github.com/heckomorphism/USRA2021Repository.git"
 
 [packages]
+57a86b13-246b-47ef-b5f2-61b58713240d = { name = "NWNTools", path = "N/NWNTools" }
