@@ -1,0 +1,5 @@
+name = "USRA2021Repository"
+uuid = "960c573a-df17-4da1-8342-5a1df485d88e"
+repo = "https://github.com/heckomorphism/USRA2021Repository.git"
+
+[packages]
